@@ -1,0 +1,202 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app29.us.archive.org';v.server_ms=484;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
+<script type="text/javascript">
+WB_wombat_Init("http://web.archive.org/web", "20180718174039", "octaviabutler.org");
+</script>
+<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
+<script type="text/javascript">
+__wbhack.init('http://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css" />
+<!-- End Wayback Rewrite JS Include -->
+
+<link rel="stylesheet" id="kpicasa-css" href="http://web.archive.org/web/20180718174039cs_/http://octaviabutler.org/wp-content/plugins/kpicasa-gallery/kpicasa_gallery.css?ver=0.2.4" type="text/css" media="screen"/>
+<link rel="stylesheet" id="slimbox2-css" href="http://web.archive.org/web/20180718174039cs_/http://octaviabutler.org/wp-content/plugins/kpicasa-gallery/slimbox2/css/slimbox2.css?ver=2.02" type="text/css" media="screen"/>
+<link rel="stylesheet" id="events-manager-css" href="http://web.archive.org/web/20180718174039cs_/http://octaviabutler.org/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=3.1" type="text/css" media="all"/>
+<script type="text/javascript" src="http://web.archive.org/web/20180718174039js_/http://octaviabutler.org/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20180718174039js_/http://octaviabutler.org/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20180718174039js_/http://octaviabutler.org/wp-content/plugins/kpicasa-gallery/slimbox2/js/slimbox2.js?ver=2.02"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20180718174039js_/http://octaviabutler.org/wp-content/plugins/events-manager/includes/js/em_maps.js?ver=3.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://octaviabutler.org/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://octaviabutler.org/wp-includes/wlwmanifest.xml"/> 
+<link rel="index" title="Octavia Butler" href="http://octaviabutler.org/"/>
+<meta name="generator" content="WordPress 3.1"/>
+<script type="text/javascript">
+		//inserted at wp_head
+jQuery(document).ready( function($) {
+	
+	
+	$('a.em-calnav, a.em-calnav').live('click', function(e){
+		e.preventDefault();
+		$(this).parents('.em-calendar-wrapper').first().prepend('<div class="loading" id="em-loading"></div>');
+		$(this).parents('.em-calendar-wrapper').first().load($(this).attr('href'));		
+	} );
+	
+	
+});	
+		</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<style type="text/css" media="screen">
+@import url( http://web.archive.org/web/20180718174039cs_/http://octaviabutler.org/wp-content/themes/butler/style.css );
+</style>
+<title>Octavia Butler  &raquo; Page not found</title>
+<link rel="shortcut icon" href="/web/20180718174039im_/http://octaviabutler.org/favicon.ico" type="image/x-icon"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+
+
+
+</head>
+
+<body class="error404">
+
+<div id="page">
+<div id="right">
+
+
+
+<div id="sidebar_social">
+<ul id="social_links">
+<li id="social_facebook"><a target="_blank" href="http://web.archive.org/web/20180718174039/http://www.facebook.com/Sonia.Sanchez.Fan.Page" title=""><span>Facebook</span></a></li>
+<li id="social_twitter"><a target="_blank" href="http://web.archive.org/web/20180718174039/http://twitter.com/poetsanchez" title=""><span>Twitter</span></a></li>
+<li id="social_youtube"><a target="_blank" href="http://web.archive.org/web/20180718174039/http://www.youtube.com/user/BeaconBroadside#grid/user/286742A89D32E151" title=""><span>Youtube</span></a></li>
+</ul>
+
+<div id="praise" class="green block">
+<h3>Praise</h3>
+<blockquote id="quote">
+<div class="single_quote">
+&#8220;What &#8216;cyberpunk&#8217; author William Gibson does for young, disaffected white fans&#8230;Octavia Butler does for people of color. She gives us a future.&#8221;
+<strong>-Vibe</strong>
+</div>
+<div class="single_quote">
+&#8220;Butler is among the best of contemporary [science fiction] writers, blessed with a  mind capable of conceiving complicated futuristic situations that shed  considerable light on our current affairs. Her prose is lean and  literate, her ideas expansive and elegant.&#8221;
+<strong>-Houston Post</strong>
+</div>
+<div class="single_quote">
+“[Her] evocative, often troubling, novels explore far-reaching issues of race, sex, power and, ultimately, what it means to be human.”
+<strong>-New York Times</strong>
+</div>
+<div class="single_quote">
+“With lively characters and rich narrative, [Kindred] is a  wonderful blend of speculative and historical fiction that takes on the  broad issues of power, freedom, gender, and race&#8230;.This book, written nearly 40 years ago, still  resonates today.”
+<strong>-Rebecca Fitting, Greenlight Bookstore (Brooklyn, NY)</strong>
+</div>
+<div class="single_quote">
+“Butler’s literary craftsmanship is superb.”
+<strong>-Washington Post Book World</strong>
+</div>
+<div class="single_quote">
+&#8220;She is one of those rare authors who pay serious attention to the way human beings actually work together and against each other, and she does so with extraordinary plausibility.&#8221;
+<strong>-Locus</strong>
+</div>
+<div class="single_quote">
+&#8220;Butler&#8217;s spare, vivid prose style invites comparison with the likes of Kate Wilhelm and Ursula Le Guin.&#8221;
+<strong>-Kirkus Reviews</strong>
+</div>
+<div class="single_quote">
+“[Butler] defied formulaic sci-fi while exploiting the freedom of the genre to take her usually female and nonwhite characters to places where mainstream fiction would ten to deny them.”
+<strong>-Commonweal</strong>
+</div>
+<div class="single_quote">
+&#8220;Butler&#8217;s books are exceptional. . . . She is a realist, writing the most detailed social criticism and creating some of the most fascinating female characters in the genre . . . real women caught in impossible situations.&#8221;
+<strong>-Dorothy Allison, Village Voice</strong>
+</div>
+</blockquote>
+</div>
+
+<div id="subscribe" class="yellow block">
+<h3>Subscribe to updates</h3>
+<p><!--subscribe2--></p>
+</div>
+
+
+</div>
+
+<script>
+jQuery( function( $ ) {
+	// Rotate quotes
+	var $single_quotes = $( '.single_quote' ).hide(),
+		display_number = 0,
+		show_next_quote = function() {
+			$single_quotes.eq( display_number ).fadeOut( 500, function() {
+				display_number = ( display_number + 1 ) % $single_quotes.length;
+				$single_quotes.eq( display_number ).fadeIn( 500 );
+			} );
+		};
+	show_next_quote();
+	setInterval( function() {
+		show_next_quote();
+	}, 30000 );
+} );
+</script>
+
+</div>
+
+<div id="right">
+
+<h1>We're Sorry</h1>
+<p><strong>We can't find the page you were looking for. Maybe it's address has changed.</strong></p>
+
+<h3>Try searching...</h3>
+<form method="get" action="/web/20180718174039/http://octaviabutler.org/index.php" style="margin-bottom: 45px;">
+			<div>
+				<input type="text" name="s" id="s" size="15"/>
+				<input type="submit" value="Search"/>
+			</div>
+		</form>
+
+
+<h3>Or get in touch</h3>
+If you can't find what you are looking for, please <a href="/web/20180718174039/http://octaviabutler.org/about/contact">contact us.</a>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div id="footer">
+<ul>
+<li><a href="/web/20180718174039/http://octaviabutler.org/" title="">Home</a></li>
+<li><a target="_blank" href="http://web.archive.org/web/20180718174039/http://www.facebook.com/pages/Octavia-E-Butler/109192109100257" title="">Facebook</a></li>
+<li><a href="/web/20180718174039/http://octaviabutler.org/contact" title="">Contact</a></li>
+</ul>
+</div>
+
+<!-- End Wrapper -->
+</div>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1666173-14']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'http://web.archive.org/web/20180718174039/https://ssl/' : 'http://web.archive.org/web/20180718174039/http://www/') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+</body>
+</html><!--
+     FILE ARCHIVED ON 17:40:39 Jul 18, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:13:41 Jun 10, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 328.868 (3)
+  esindex: 0.007
+  captures_list: 357.613
+  CDXLines.iter: 15.988 (3)
+  PetaboxLoader3.datanode: 279.089 (4)
+  exclusion.robots: 0.18
+  exclusion.robots.policy: 0.168
+  RedisCDXSource: 7.997
+  PetaboxLoader3.resolve: 151.888 (3)
+  load_resource: 112.339
+-->
